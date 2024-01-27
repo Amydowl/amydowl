@@ -1,4 +1,6 @@
 ## Estudante Design e Programação!!
+Design Gráfico 4/4 
+Desenvolvimento de sistemas 0/5
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amydowl&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
